@@ -1,3 +1,8 @@
+require 'Nokogiri'
+require 'open-uri'
+require 
+
+
 class GetRequester
   
   def initialize(url)
