@@ -1,5 +1,6 @@
 require 'open-uri'
-require 
+require 'net/http'
+require ''
 
 
 class GetRequester
